@@ -1,16 +1,30 @@
-## Hi there 👋
+ 🚀 **Tech Enthusiast | Cybersecurity Explorer**  
 
-<!--
-**root-affan/root-affan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Passionate about **cybersecurity** and **emerging tech trends**.  
+- 🛠️ Currently working on **Wi-Fi deauthication tools wih AI**, **IoT projects**
+- 📚 Learning **Penatration testing** and exploring **Digital World**.  
+
+---
+
+## 🚀 Skills and Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-007ACC?style=for-the-badge&logo=protonvpn&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+## 🌐 Let's Connect  
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)  
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/)  
+
+---
+
+
