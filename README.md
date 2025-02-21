@@ -1,5 +1,5 @@
 <div style="text-align: center; font-family: Arial, sans-serif; padding: 20px;">
-    <h1 style="font-size: 2.8em; margin-bottom: 10px;">🚀 Tech Enthusiast | Cybersecurity Explorer</h1>
+    <h1 style="font-size: 2.8em; margin-bottom: 10px;">🚀 Pentester | Tech Enthusiast</h1>
     <p style="font-size: 1.2em; color: #555;">Exploring technology, cybersecurity, and the endless possibilities of innovation.</p>
 </div>
 
@@ -9,7 +9,7 @@
 
 <div style="text-align: center; font-family: Arial, sans-serif; line-height: 1.8; color: #444;">
     🌟 Passionate about <strong>cybersecurity</strong> and the <strong>latest tech trends</strong>.  
-    <br>🛠️ Focused on <strong>Wi-Fi testing devices</strong> and exploring the integration of <strong>AI in tech solutions</strong>.  
+    <br>🛠️ Focused on <strong>Pentesting</strong> and exploring the integration of <strong>AI in tech solutions</strong>.  
     <br>📚 Dedicated to learning, growing, and sharing insights about the <strong>digital frontier</strong>.
 </div>
 
